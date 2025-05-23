@@ -25,5 +25,3 @@ A tool-augmented LLM agent that performs topic-based research using real-time se
 2. Install dependencies
    ```bash
    pip install -r requirements.txt
-
-   
