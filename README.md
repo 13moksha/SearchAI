@@ -22,4 +22,8 @@ A tool-augmented LLM agent that performs topic-based research using real-time se
 1. Clone the repository:
    ```bash
    git clone https://github.com/13moksha/SearchAI
-   cd AI Agent
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+
+   
